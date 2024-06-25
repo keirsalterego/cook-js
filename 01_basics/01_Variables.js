@@ -15,3 +15,7 @@ accountPassword = "WWWmmm"
 accountCity = "BBSR"
 
 console.table([accountId, accountEmail, accountPassword, accountCity])
+
+/*
+Prefer not to use var due to issue in block scope and functional scope
+*/
