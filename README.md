@@ -1,1 +1,1 @@
-A code repo for Practice of javascript session
+## A playground for Javascript
