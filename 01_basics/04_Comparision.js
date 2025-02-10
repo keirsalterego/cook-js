@@ -36,6 +36,8 @@ console.log(null == undefined);
 console.log(null === undefined);
 console.log(null !== undefined);
 
+// OUTPUT
+
 // false
 // false
 // false
@@ -47,3 +49,5 @@ console.log(null !== undefined);
 // true
 // false
 // true
+
+
