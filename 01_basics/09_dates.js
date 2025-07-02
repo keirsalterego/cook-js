@@ -13,3 +13,7 @@ console.log(myCreatedDate); // 2021-09-19T18:30:00.000Z
 console.log(myDate.toLocaleString());
 
 console.log(myDate.getFullYear()); // 2021
+
+
+
+fetch.apply()
