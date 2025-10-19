@@ -17,4 +17,10 @@ console.log(myDate.getFullYear()); // 2021
 
 
 fetch.apply()
- 
+
+
+let myData1 = new Date();
+console.log(myDate1);
+
+console.log(myData.toString());
+
